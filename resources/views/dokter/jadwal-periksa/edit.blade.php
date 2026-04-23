@@ -1,5 +1,7 @@
-<x-layouts.app title="Edit Jadwal Periksa">
 
+
+<x-layouts.app title="Edit Jadwal Periksa">
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     {{-- Header --}}
     <div class="flex items-center gap-3 mb-6">
         <a href="{{ route('jadwal-periksa.index') }}" class="inline-flex items-center justify-center w-9 h-9 
@@ -99,3 +101,4 @@
     </div>
 
 </x-layouts.app>
+Menampilkan Jadwal Periksa Edit.txt.

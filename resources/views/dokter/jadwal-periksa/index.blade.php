@@ -1,13 +1,6 @@
 
-Jadwal Periksa index.txt
-
-Halaman
-1
-/
-1
-100%
 <x-layouts.app title="Jadwal Periksa">
-
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     {{-- Header --}}
     <div class="flex items-center justify-between mb-6">
         <h2 class="text-2xl font-bold text-slate-800">
